@@ -1,4 +1,4 @@
-stire = ("Jaf ca în filme la muzeul Luvru. Hoții au reușit să! fugă. cu mai multe? bijuterii ")
+stire = "Jaf ca în filme la muzeul Luvru. Hoții au reușit să! fugă. cu mai multe? bijuterii "
 mid = len(stire)//2
 primajum = stire[:mid]
 adouajum = stire[mid:]
